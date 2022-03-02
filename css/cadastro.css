@@ -1,0 +1,191 @@
+
+
+body {
+    background-color: #e2f5d7;
+    margin: 0;
+}
+
+
+#titulo {
+    margin-left: 450px;
+}
+
+
+#subtitulo {
+    margin-left: 500px;
+    position: absolute;
+    top: 40px;
+}
+
+
+.grupo {
+    padding: 7%;
+    border: none;   
+}
+
+
+.one01 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -70px;  
+}
+
+.one02 {
+    position: absolute;
+    margin-left: 298px;
+    margin-top: -50px;  
+}
+
+.one02 input {
+    border-radius: 5px;
+    width: 170px;
+}  
+
+.two01 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -20px;
+}
+
+.two02 {
+    position: absolute;
+    margin-left: 298px;
+    margin-top: 0px;
+}
+
+.two02 input {
+    border-radius: 5px;
+    width: 170px;
+}
+
+.tree01 {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -70px;
+}
+
+.tree02 {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -50px;
+}
+
+.tree02 input {
+    border-radius: 5px;
+    width: 170px;
+}
+
+
+.grupo02 {
+    padding: 5%;
+    border: none;   
+}
+
+
+.gp1 {
+    position: absolute;
+    margin-left: 325px;
+    margin-top: -50px; 
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+.gp2 {
+    position: absolute;
+    margin-left: 319px;
+    margin-top: -15px;
+    margin-bottom: 0.2em;
+    color: #000000;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    
+.grupo03 {
+
+    padding: 3%;
+    border: none;
+}
+
+.gp3 {
+
+    position: absolute;
+    margin-left: 349px;
+    margin-top: -30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.gp4 {
+    position: absolute;
+    margin-left: 349px;
+    margin-top: -2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gp4 senior idade {
+    border-radius: 5px;
+    height: 10px;
+    
+}
+
+.ck1 {
+
+    padding: 4%;
+    border: none;
+}
+
+
+.ck2 {
+
+    position: absolute;
+    margin-left: 336px;
+    margin-top: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ck3 {
+    position: absolute;
+    margin-left: 336px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fl {
+    padding: 6%;
+    border: none;
+
+
+}
+
+.fl1 {
+
+    position: absolute;
+    margin-left: 309px;
+    margin-top: -70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ar1 {
+    position: absolute;
+    margin-left: 309px;
+    margin-top: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bt {
+    position: absolute;
+    margin-left: 439px;
+    margin-top: 70px;
+
+}
+
+.ac12 {
+   border: none;
+}
+
+
+.ac {
+    background-color: #e2f5d7;
+    height: 50px;
+    width: 100%px;
+}
+

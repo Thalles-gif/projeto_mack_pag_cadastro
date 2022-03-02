@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina 02</title>
+    <link rel="stylesheet" href="./css/cadastro.css">
+</head>
+
+
+<body>
+
+    <header>
+        <div>
+            <h1 id="titulo">Cadastro de pessoas</h1>
+            <p id="subtitulo">Complete suas informacões</p>
+        </div>
+    </header>
+
+    <form>
+        <fieldset class="grupo">
+
+
+                <div>
+
+                    <a href="../1.pagina-home/index.html">HOME</a>
+
+                </div>
+
+
+                <div class="one01"> 
+                    <label for="nome"><strong>Nome</strong></label>
+                </div>
+                <div class="one02">
+                     <input type="text" name="Nome" id="nome" required>
+                </div>
+                <div class="two01">
+                    <label for="sobrenome"><strong>Sobrenome</strong></label>  
+                </div>
+                <div class="two02">
+                    <input type="text"name="Sobrenome" id="Sobrenome" required>
+                </div>
+                <div class="tree01">
+                    <label for="email"><strong>Email</strong></label>
+                </div>
+                <div class="tree02">
+                    <input type="email"name="Email"id="Email"required>
+                </div>  
+        </fieldset>
+        <fieldset class="grupo02">
+            <div class="gp1">
+                <strong>Por que está procurando os softwares da Tecota?</strong>
+            </div>
+            <div class="gp2">
+                <label>
+                    <input type="radio"name="devweb" value="frontend" checked>Sou Aluno.
+                </label>
+                <br>
+                <label>
+                    <input type="radio"name="devweb" value="Backend">Sou Professor.
+                </label>
+                <br>
+                <label>
+                    <input type="radio"name="devweb" value="Fullstack">Sou empresário.
+                </label>
+            </div>
+        </fieldset>
+        <fieldset class="grupo03">
+            <div class="gp3">
+                <label for="senior idade"><strong>Nivel de escolaridade</strong></label>
+            </div>
+            <div class="gp4">
+                <select id="Senior idade">
+                    <option selected disabled value="">Selecione</option>
+                    <option>Ensimo Médio</option>
+                    <option>Graduação</option>
+                    <option>Pós Graduação</option>
+                </select>
+            </div>
+        </fieldset> 
+        <fieldset class="ck1">
+            <div class="ck2">
+               <strong> Quais tecnologias você já trabalhou?</strong>
+            </div>
+            <div class="ck3">
+                <input type="checkbox" name="tecnologia1" id="tecnologia1"value="html">
+                <label for="tecnologia1">HTML</label>
+                <input type="checkbox" name="tecnologia2" id="tecnologia2"value="CSS">
+                <label for="tecnologia2">CSS</label>
+                <input type="checkbox" name="tecnologia3" id="tecnologia3"value="Javascript">
+                <label for="tecnologia3">JavaScript</label>
+                <input type="checkbox" name="tecnologia4" id="tecnologia4"value="PHP">
+                <label for="tecnologia4">PHP</label>
+                <input type="checkbox" name="tecnologia5" id="tecnologia5"value="C#">
+                <label for="tecnologia5">C#</label>
+                <input type="checkbox" name="tecnologia6" id="tecnologia6"value="Python">
+                <label for="tecnologia6">Python</label>
+                <input type="checkbox" name="tecnologia7" id="tecnologia7"value="Java">
+                <label for="tecnologia7">Java</label>
+            </div>
+        </fieldset>
+        <fieldset class="fl">  
+            <div class="fl1">
+                <strong>Conte um pouco da sua esperiência?</strong>
+            </div>
+            <div class="ar1">
+                <textarea name="experiencia" id="experiencia" rows="6" style="width: 26em"></textarea>
+            </div>
+            <div class="bt">
+                <button class="botao" type="submit">Concluido</button>
+            </div>
+        </fieldset>
+        <fieldset class="ac12">
+            <div class="ac">       
+                <img src="">
+             </div>
+        </fieldset>
+
+
+</body>
+</html>
