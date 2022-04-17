@@ -189,3 +189,34 @@ body {
     width: 100%px;
 }
 
+
+.info{
+    position: absolute;
+    top: 800px;
+    right: 100px;
+    list-style-type: none;
+}
+.info2{
+    position: absolute;
+    top: 820px;
+    right: 100px;
+    list-style-type: none;
+}
+.info3{
+    position: absolute;
+    top: 840px;
+    right: 100px;
+    list-style-type: none;
+}
+.info4{
+    position: absolute;
+    top: 860px;
+    right: 100px;
+    list-style-type: none;
+}
+.info5{
+    position: absolute;
+    top: 880px;
+    right: 100px;
+    list-style-type: none;
+}
